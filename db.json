@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,26 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "dogname",
+      "dogBreed": "dogbreed",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +39,233 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 1
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 2
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 3
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 4
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 5
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 6
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 7
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 8
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 9
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 10
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 11
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 12
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 13
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 14
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 15
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 16
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 17
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 18
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 19
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 20
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 21
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 22
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 23
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 24
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 25
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 26
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 27
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 28
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 29
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 30
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 31
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 32
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 33
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 34
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 35
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 36
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 37
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 38
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 39
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 40
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 41
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 42
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 43
+    },
+    {
+      "name": "furky",
+      "email": "gjkg",
+      "id": 44
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
